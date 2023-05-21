@@ -2,6 +2,7 @@
 
 - User authentication and authorization using JWT tokens.
 - Ability to change passwords.
+- Ability to search media or person.
 - Ability to add comments for media.
 - Ability to add media to favorites.
 - Ability to view details for media.
