@@ -46,6 +46,7 @@ server:
 [ExpressJS](https://expressjs.com/)<br>
 [Express Validator](https://express-validator.github.io/docs/)<br>
 [React Router](https://reactrouter.com/)<br>
+[Redux](https://redux.js.org/)<br>
 [Formik](https://formik.org/)<br>
 [Yup](https://github.com/jquense/yup/)<br>
 [Axios](https://axios-http.com/)<br>
