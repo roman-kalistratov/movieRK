@@ -1,12 +1,6 @@
-# MoonFlix
+# MovieRK
 
-    Fullstack Responsive Movie APP 2023
-
-# Video tutorial
-
-[Part 1](https://youtu.be/j-Sn1b4OlLA)<br>
-
-[Part 2](https://youtu.be/Q_uLi4f27Lc)<br>
+    Fullstack Responsive Movie APP
 
 # Resource
 
@@ -25,6 +19,7 @@
 [JWT](https://github.com/auth0/node-jsonwebtoken)<br>
 
 # Preview
+![avatar3](https://github.com/roman-kalistratov/movieRK/assets/80212286/489ead81-8fea-452f-9ecf-f490bf59f9db)
 
 !["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322539-8fcd83e1-8424-4922-980c-91d20cdf761c.png "Fullstack Responsive Movie Website 2022")
 
