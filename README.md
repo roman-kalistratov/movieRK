@@ -19,5 +19,6 @@
 [JWT](https://github.com/auth0/node-jsonwebtoken)<br>
 
 # Preview
-![movierk vercel app_](https://github.com/roman-kalistratov/movieRK/assets/80212286/a05d1f6f-6333-4175-9916-5f3990b60231)
+![movierk vercel app_ (1)](https://github.com/roman-kalistratov/movieRK/assets/80212286/c0f647cb-6604-4e48-a556-d24b11431a40)
+
 
