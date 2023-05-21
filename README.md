@@ -1,9 +1,43 @@
-# MovieRK
+## The project features include:
 
-    Fullstack Responsive Movie APP
+- User authentication and authorization using JWT tokens.
+- Ability to change passwords.
+- Ability to add comments for media.
+- Ability to add media to favorites.
+- Ability to view details for media.
+- Ability to sort media by popularity and top ratings.
+
+## Configuration
+server/.env : 
+
+```shell
+ MONGODB_URL="Your connection to MongoDB"
+ PORT=5000
+ TOKEN_SECRET="Your random secret key"
+ TMDB_BASE_URL=https://api.themoviedb.org/3
+ TMDB_KEY="Your tmdb api key"
+```
+
+client/src/api/privateClient(publicClient):
+```shell
+ const baseURL = "http://localhost:5000//api/v1/"
+```
+
+## Building
+client:
+```shell
+ cd client
+ npm i
+ npm start
+```
+server:
+```shell
+ cd server
+ npm i
+ npm start
+```
 
 # Resource
-
 [Create React App](https://create-react-app.dev/)<br>
 [Material UI](https://create-react-app.dev/)<br>
 [React Toastify](https://github.com/fkhadra/react-toastify)<br>
