@@ -20,5 +20,9 @@
 
 # Preview
 ![movierk vercel app_ (1)](https://github.com/roman-kalistratov/movieRK/assets/80212286/c0f647cb-6604-4e48-a556-d24b11431a40)
+![movierk vercel app_ (4)](https://github.com/roman-kalistratov/movieRK/assets/80212286/10b79660-4f4b-4e2c-b1ec-d748ef3d25dc)
+![movierk vercel app_](https://github.com/roman-kalistratov/movieRK/assets/80212286/74fd7d28-e0b5-46f9-8388-438bf179d2be)
+![movierk vercel app_ (1)](https://github.com/roman-kalistratov/movieRK/assets/80212286/54b5cc90-df48-437a-8982-02000a6112a1)
+![movierk vercel app_](https://github.com/roman-kalistratov/movieRK/assets/80212286/9d9a9a29-cd9d-4180-acd3-99854b8e1a87)
 
 
