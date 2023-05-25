@@ -1,15 +1,44 @@
-# MoonFlix
+## The project features include:
 
-    Fullstack Responsive Movie APP 2023
+- User authentication and authorization using JWT tokens.
+- Ability to change passwords.
+- Ability to search media or person.
+- Ability to add comments for media.
+- Ability to add media to favorites.
+- Ability to view details for media.
+- Ability to sort media by popularity and top ratings.
 
-# Video tutorial
+## Configuration
+server/.env : 
 
-[Part 1](https://youtu.be/j-Sn1b4OlLA)<br>
+```shell
+ MONGODB_URL="Your connection to MongoDB"
+ PORT=5000
+ TOKEN_SECRET="Your random secret key"
+ TMDB_BASE_URL=https://api.themoviedb.org/3
+ TMDB_KEY="Your tmdb api key"
+```
 
-[Part 2](https://youtu.be/Q_uLi4f27Lc)<br>
+client/src/api/privateClient(publicClient):
+```shell
+ const baseURL = "http://localhost:5000//api/v1/"
+```
+
+## Building
+client:
+```shell
+ cd client
+ npm i
+ npm start
+```
+server:
+```shell
+ cd server
+ npm i
+ npm start
+```
 
 # Resource
-
 [Create React App](https://create-react-app.dev/)<br>
 [Material UI](https://create-react-app.dev/)<br>
 [React Toastify](https://github.com/fkhadra/react-toastify)<br>
@@ -17,6 +46,7 @@
 [ExpressJS](https://expressjs.com/)<br>
 [Express Validator](https://express-validator.github.io/docs/)<br>
 [React Router](https://reactrouter.com/)<br>
+[Redux](https://redux.js.org/)<br>
 [Formik](https://formik.org/)<br>
 [Yup](https://github.com/jquense/yup/)<br>
 [Axios](https://axios-http.com/)<br>
@@ -25,15 +55,10 @@
 [JWT](https://github.com/auth0/node-jsonwebtoken)<br>
 
 # Preview
+![movierk vercel app_ (1)](https://github.com/roman-kalistratov/movieRK/assets/80212286/c0f647cb-6604-4e48-a556-d24b11431a40)
+![movierk vercel app_ (4)](https://github.com/roman-kalistratov/movieRK/assets/80212286/10b79660-4f4b-4e2c-b1ec-d748ef3d25dc)
+![movierk vercel app_](https://github.com/roman-kalistratov/movieRK/assets/80212286/74fd7d28-e0b5-46f9-8388-438bf179d2be)
+![movierk vercel app_ (1)](https://github.com/roman-kalistratov/movieRK/assets/80212286/54b5cc90-df48-437a-8982-02000a6112a1)
+![movierk vercel app_](https://github.com/roman-kalistratov/movieRK/assets/80212286/9d9a9a29-cd9d-4180-acd3-99854b8e1a87)
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322539-8fcd83e1-8424-4922-980c-91d20cdf761c.png "Fullstack Responsive Movie Website 2022")
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322676-cbf56b14-8e23-4622-bbd9-76e6cbe619a8.png "Fullstack Responsive Movie Website 2022")
-
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322838-09e075c4-7f47-4252-83e8-afdd633e1968.png "Fullstack Responsive Movie Website 2022")
-
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322933-1b5cf238-0ec7-4adf-89eb-6b4fb3dcb996.png "Fullstack Responsive Movie Website 2022")
-
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207323098-dfa74553-78a8-4809-a7a7-cd569c3b3f6c.png "Fullstack Responsive Movie Website 2022")
-
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207323021-0b5657d2-8913-4b81-8c1b-d4ceef065ee6.png "Fullstack Responsive Movie Website 2022")
