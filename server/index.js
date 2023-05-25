@@ -22,7 +22,7 @@ const server = http.createServer(app);
 mongoose.connect(process.env.MONGODB_URL).then(() => {
     console.log("Connected to MongoDB.");
   server.listen(port, () => {
-    console.log(`Connected to Server, Port: ${PORT}`);
+    console.log(`Connected to Server, Port: ${port}`);
   });
 }).catch((err) => {
   console.log({ err });
